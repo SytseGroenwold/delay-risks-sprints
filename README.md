@@ -1,4 +1,6 @@
- # Provisionary title: Risk detection and risk control through sprint backlog analysis
+ # Thesis repository
+ 
+ ## Provisional title: Risk detection and risk control through sprint backlog analysis
  This repository holds all the relevant information regarding my Master's Thesis for the University of Amsterdam's Master's Programme Information Studies in the Data Science track.
 
 ## data

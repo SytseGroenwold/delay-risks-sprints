@@ -1,0 +1,12 @@
+todo:
+  action:
+    - investigate how to use Dries' code to retrieve data from public data sets
+    - use it to get the FULL METADATA of all datasets that I want to use
+    - find a way to find all the publicly availabe JIRA api endpoints
+  waiting:
+  planned:
+  ask:
+    zhiming:
+    dries:
+      - what exactly is your research gap?
+      - did you read the papers and how much overlap do you see?

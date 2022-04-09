@@ -1,0 +1,20 @@
+jira:
+  - name: Apache
+    description: Open source web server software with various sub projects.
+    link: https://issues.apache.org/jira
+  - name: JIRA
+    description: Proprietary project and work tracking system, provided by Atlassian.
+    link: https://jira.atlassian.com
+  - name: MongoDB
+    description: Open source document-oriented database software.
+    link: https://jira.mongodb.org
+  - name: Spring
+    description: Open source application development framework with various subprojects
+    link: https://jira.spring.io/secure/Dashboard.jspa
+
+  - name: IzPack
+    description: 
+    link: https://izpack.atlassian.net
+  - name: RedHat
+    description: TODO check if this is fully accessible or not
+    link: https://issues.redhat.com

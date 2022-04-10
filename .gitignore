@@ -1,4 +1,8 @@
+# MacOS files
 .DS_store
 
+# venv and related
+.venv/
+
 # Exclude repos.yml template for credentials
-src/repo_access/repos.yml
+src/repo_access/jira_repos.yml

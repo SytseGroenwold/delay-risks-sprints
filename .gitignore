@@ -1,1 +1,4 @@
 .DS_store
+
+# Exclude repos.yml template for credentials
+src/repo_access/repos.yml

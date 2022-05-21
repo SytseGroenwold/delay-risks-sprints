@@ -6,3 +6,6 @@
 
 # Exclude repos.yml template for credentials
 src/repo_access/jira_repos.yml
+
+# PDF files
+*.pdf
